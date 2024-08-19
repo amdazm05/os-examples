@@ -1,0 +1,3 @@
+- Do the example for fork, avoid zombie processes
+- Do the pipe call to create a pipe and then use read and write , close to use it in child and parent processes.
+- Test ... 
